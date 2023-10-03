@@ -3,8 +3,11 @@
 ## Files
 
 **RRA.py:** File with the Round Robin algorithm.
+
 **DRR.py:** File with the Double Round Robin algorithm.
+
 **MUW.py:** File with the MUW algorithm.
+
 **MNW.py:** File with the MNW algorithm.
 ## Usage
 ```bash
